@@ -3,7 +3,7 @@
 
 (custom-theme-set-faces
  'tommyh
- '(default ((t (:inherit nil :stipple nil :background "White" :foreground "Black" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 140 :width normal :foundry "apple" :family "Source Code Pro"))))
+ '(default ((t (:inherit nil :stipple nil :background "White" :foreground "Black" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :width normal))))
  '(cperl-array-face ((t (:foreground "#499e4d" :slant italic :weight bold))))
  '(cperl-hash-face ((t (:foreground "#499e4d" :underline t :weight bold))))
  '(cperl-nonoverridable-face ((((class color) (background light)) (:foreground "Blue1" :slant italic))))
