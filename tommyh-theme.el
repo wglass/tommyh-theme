@@ -1,4 +1,4 @@
-;;; tommyh-theme.el --- A bright, bold-colored theme for emacs.
+;;; tommyh-theme.el --- A bright, bold-colored theme for emacs
 
 ;; Copyright (c) 2013 William Glass
 
@@ -21,7 +21,7 @@
 
 ;;; Credits:
 
-;; The organization of the code is borrowed heavily from the zenburne-theme
+;; The organization of the code is borrowed heavily from the zenburn-theme
 ;; package by Bozhidar Batsov.
 
 ;;; Code:
